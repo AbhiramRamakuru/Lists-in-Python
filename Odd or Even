@@ -39,4 +39,3 @@ print(f"The even list {a}")
 print(f"The odd list {b}")
 
 
-
