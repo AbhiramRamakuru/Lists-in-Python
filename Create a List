@@ -1,0 +1,13 @@
+# PROGRAM (Answer):
+
+# 1st Method
+n=int(input())
+l=[]
+for i in range(n):
+    l.append(int(input()))
+print(l)
+
+# # 2nd Method
+# n = int(input())
+# li = [int(input()) for i in range(n)]
+# print(li)
